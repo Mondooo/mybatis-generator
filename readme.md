@@ -1,3 +1,4 @@
+###按步骤进行:
 1. 按照需求更改generator.xml配置文件
 	需要配置的东西有：
 	1.1 connectionURL 和 userId 和 password配置连接数据库信息
